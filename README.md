@@ -1,6 +1,6 @@
-# Cookiecutter Data Science
+# Data Science project template
 
-_Project structure for doing and sharing data science work._
+_Project structure for data analysis._
 
 
 #### [Reference: Cookiecutter for Data Science homepage](http://drivendata.github.io/cookiecutter-data-science/)
@@ -26,9 +26,10 @@ $ conda install cookiecutter
 ### To start a new project, run:
 ------------
 
-    cookiecutter https://github.com/drivendata/cookiecutter-data-science
+    cookiecutter https://github.com/AaronJennings/data-science-project-template
 
 
+#### In the example below, replace the https with the one listed above
 [![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
 
 
