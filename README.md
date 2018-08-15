@@ -29,7 +29,8 @@ $ conda install cookiecutter
     cookiecutter https://github.com/AaronJennings/data-science-project-template
 
 
-#### In the example below, replace the https with the one listed above
+#### In the example below, https will reflect https://github.com/AaronJennings/data-science-project-template
+
 [![asciicast](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02.png)](https://asciinema.org/a/9bgl5qh17wlop4xyxu9n9wr02)
 
 
