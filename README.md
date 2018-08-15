@@ -42,8 +42,8 @@ The directory structure of your new project looks like this:
 ├── Makefile           <- Makefile with commands like `make data` or `make train`
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   ├── merged         <- Combined data sets of similar type
-│   ├── transformed    <- If necessary, transformation of merged and processed data sets
+│   ├── merged         <- Combined data sets of similar type.
+│   ├── transformed    <- If necessary, transformation of merged and processed data sets.
 │   ├── processed      <- Cleaned data sets.
 │   └── raw            <- The original, immutable data dump.
 │
@@ -90,4 +90,4 @@ The directory structure of your new project looks like this:
 
     pip install -r requirements.txt
 
-### Conda environment files installed in local machine
+### Conda environment packages & dependencies (environment.yml) installed in local machine
