@@ -23,7 +23,7 @@ $ conda install cookiecutter
 ```
 
 
-### To start a new project, run:
+### To start a new project (cookiecutter must be installed in the proper environment) run:
 ------------
 
     cookiecutter https://github.com/AaronJennings/data-science-project-template
